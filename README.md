@@ -1,0 +1,342 @@
+#The posthumous works of Ann Eliza Bleecker, in prose and verse. To which is added, a collection of essays, prose and poetical, by Margaretta V. Faugeres.#
+
+##Bleecker, Ann Eliza, 1752-1783.##
+The posthumous works of Ann Eliza Bleecker, in prose and verse. To which is added, a collection of essays, prose and poetical, by Margaretta V. Faugeres.
+Bleecker, Ann Eliza, 1752-1783.
+
+##General Summary##
+
+**Links**
+
+[TCP catalogue](http://www.ota.ox.ac.uk/tcp/)  • 
+[HTML](http://tei.it.ox.ac.uk/tcp/Texts-HTML/free/N19/N19358.html)  • 
+[EPUB](http://tei.it.ox.ac.uk/tcp/Texts-EPUB/free/N19/N19358.epub)
+
+**Availability**
+
+This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+
+**Major revisions**
+
+1. __2005-08__ __TCP__ *Assigned for keying and markup*
+1. __2005-09__ __SPi Global (Manila)__ *Keyed and coded from Readex/Newsbank page images*
+1. __2006-01__ __Olivia Bottum__ *Sampled and proofread*
+1. __2006-01__ __Olivia Bottum__ *Text and markup reviewed and edited*
+1. __2006-04__ __pfs.__ *Batch review (QC) and XML conversion*
+
+##Content Summary##
+
+#####Front#####
+
+1. To the Public.
+
+1. SUBSCRIBERS NAMES.
+
+1. CONTENTS.
+
+    _ CONTENTS. By Mrs. FAUGERES.
+
+#####Body#####
+
+1. MEMOIRS OF Mrs. ANN ELIZA BLEECKER.
+
+1. THE HISTORY OF MARIA KITTLE. In a Letter to Miſs Ten Eyck.
+
+1. THE STORY OF HENRY AND ANNE. FOUNDED ON FACT.
+
+1. LETTERS.
+MY DEAY GIRL,WHEN I had wrote you my laſt narrative of diſtreſſes, I was afraid I had diſcouraged yoTomhanick,April 8, 1780.YOU are to look upon my letters as coming from the ends of the earth, (if a MY DEAR COUSIN,YOUR letter was more acceptable to me than the ſmiles of the returning ſpring after t
+    _ To Miſs V—.
+
+    _ To Mr. B—.
+Thurſday Evening, July 22.I HAVE been very ſick, and kept my bed all day. Your abſence increaſes my Friday Evening, July 23.I FIND myſelf better. Mrs. V. S. paid us a viſit this afternoon: after tea ſ
+    _ To Miſs V—.
+
+    _ To Miſs —.
+
+    _ T• Miſs A. M. V—.
+
+    _ To Miſs V—.
+
+    _ To Miſs V—.
+
+    _ To Mrs. F. at Mount-Hope.
+
+    _ To Miſ•M. V—.
+October 15.I HAVE had no opportunity to ſend this, ſo before I cloſe it muſt inform you that the aboOctober 16.SINCE I wrote the above our panic-ſtricken neighbourhood left their effects and fled ſeve
+    _ To Miſs V—.
+
+    _ To Miſs V—.
+
+    _ To Miſs T** E***.
+January 2, 1782.I CONCLUDE my journal after a long interval; but, dear SUSAN, ſo many occurrences ha
+    _ To Miſs S**** T** E***.
+
+    _ To Miſs T** E***.
+
+    _ To Miſs T** E***.
+Tueſday.IT is three days ſince I wrote the above. That evening I was ſeized with a fever; I had a ſl
+    _ To Miſs M**** V** W***.
+
+    _ To Miſs S**** T** E***.
+Saturday Morn, Feb. 12Ten o'clock. WAS diſturbed in a very pleaſant dream by aunt V. W. who told me 
+    _ To Mr. S***** S*******.
+
+    _ To Miſs S**** T** E***
+
+1. POETICS.
+
+    _ JOSEPH.
+
+    _ On Mrs. JOHANNA LUPTON.
+
+    _ To Mr. L*****.
+
+    _ To the ſame
+
+    _ To the ſame.
+
+    _ To the ſame.
+
+    _ To Mr. BLEECKER.
+
+    _ On the IMMENSITY of CREATION.
+
+    _ A THOUGHT on DEATH.
+
+    _ ELEGY on the Death of CLEORA.
+
+    _ Written in the Retreat from BURGOYNE.
+
+    _ A COMPLAINT.
+
+    _ ANOTHER.
+
+    _ A PROSPECT of DEATH.
+
+    _ To Miſs CATHARINE TEN EYCK.
+
+    _ THE STORM.
+
+    _ DESPONDENCY.
+
+    _ ELEGY on the death of Gen. MONTGOMERY.
+
+    _ THAUMANTIA and FAME.
+
+    _ RECOLLECTION.
+
+    _ On Reading DRYDEN's VIRGIL.
+
+    _ To Miſs TEN EYCK.Now Mrs. BRIDG•N.
+
+    _ To Mr. BLEECKER,•n his paſſage to New-York.
+
+    _ A SHORT PASTORAL DIALOGUE.Deſigned for the uſe of her daughter and niece when very young.
+
+    _ HOPE ariſing from RETROSPECTION.
+
+    _ On ſeeing Miſs S. T. E. croſſing the Hudſon.
+
+    _ To Miſs M. V. W.
+
+    _ To Mrs. D—.
+
+    _ On a great COXCOMB recovering from an Indiſpoſition.
+
+    _ An EVENING PROSPECT.
+
+    _ A HYMN.
+
+    _ To Miſs BRINCKERHOFF, on her quitting New-York.
+
+    _ To JULIA AMANDA.
+
+    _ PEACE.
+
+    _ A PASTORAL DIALOGUE.
+
+    _ RETURN TO TOMHANICK.
+ESSAYS, IN PROSE AND VERSE.BY MARGARETTA V. FAUGERES.
+1. ESSAYS.
+
+    _ BENEFITS OF SCOLDING.
+
+    _ FINE FEELINGS Exemplified in the Conduct of a Negro Slave.
+
+    _ A FRAGMENT.
+
+    _ THE CHINA ASTER.
+
+1. POEMS.
+
+    _ A DREAM.
+
+    _ A VERSION of the LORD's PRAYER.
+
+    _ To ALFRED, in Anſwer to a Complaint.
+
+    _ LINES Written on a blank Leaf of Col. Humphrey's Poems.
+
+    _ To ARIBERT.
+
+    _ To the Memory of ALEON, who died at Sea in the Year 1790.
+
+    _ An ADDRESS to a PROFILE.
+
+    _ ELEGY to Miſs ANNA DUNDASS.
+
+    _ MORNING.
+
+    _ EVENING.
+
+    _ NIGHT.
+
+    _ To MORTIMER Embarking for the Weſt-Indies.
+
+    _ A VERSION of part of the 7th Chapter of JOB.
+
+    _ A SALUTE to the Fourteenth Anniverſary of AMERICAN INDEPENDENCE.
+
+    _ WINTER.
+
+    _ FRIENDSHIP.
+
+    _ To the Reverend J*** N*****.
+
+    _ To the MOON.
+
+    _ SILENCE.
+
+    _ To ETHELINDE.
+
+    _ To the ſame.
+
+    _ On ſeeing a Print, exhibiting the Ruins of the Baſtille.
+
+    _ To the Memory of Mrs. HENRIETTA ANNA MARIA DUBUISSON.
+
+    _ To the Memory of Mrs. SCRIBA and her infant Daughter.
+
+    _ To ETHELINDE.
+
+    _ A VERSION of Mrs. BARBAULD's Tenth Hym•.
+
+    _ The following Lines were occaſioned by Mr. ROBERTSON's refuſing to paint for one Lady, and immediately after taking another Lady's likeneſs.
+
+    _ To NATURE.
+
+    _ ARRIA's TOMB.
+
+    _ To a CANARY BIRD.
+
+    _ THE BIRTH DAY OF COLUMBIAAddreſſed to the members of the CINCINNATI of the ſtate of New-York, on the FOURTH of JULY.
+
+    _ JULY THE FOURTEENTH.
+
+    _ To Miſs MASON, at New-Rochelle.
+THE HUDSON.1793.NILE's beauteous waves, and TIBER's ſwelling tideHave been recorded by the hand of F
+    _ THE HUDSON.
+
+    _ FORT-EDWARD.
+
+    _ WEST-POINT.
+
+**Types of content**
+
+  * There are 3827 **verse** lines!
+  * There are 9 **drama** parts! This is **verse drama**.
+  * Oh, Mr. Jourdain, there is **prose** in there!
+
+There are 317 **ommitted** fragments! 
+ @__reason__ (317) : illegible (317)  •  @__resp__ (317) : #PDCC (317)  •  @__extent__ (317) : 1 letter (188), 2 letters (71), 1 word (32), 3 letters (12), 1 span (6), 4 letters (8)
+
+**Character listing**
+
+
+|Text|string(s)|codepoint(s)|
+|---|---|---|
+|Latin-1 Supplement|éê·|233 234 183|
+|Latin Extended-A|ſ|383|
+|General Punctuation|—•…|8212 8226 8230|
+|Geometric Shapes|▪◊|9642 9674|
+|Miscellaneous Symbols|☞|9758|
+|CJKSymbolsandPunctuation|〈〉|12296 12297|
+
+##Tag Usage Summary##
+
+###Header Tag Usage###
+
+|No|element name|occ|attributes|
+|---|---|---|---|
+|1.|__author__|4||
+|2.|__availability__|1||
+|3.|__biblFull__|1||
+|4.|__change__|5||
+|5.|__date__|7| @__when__ (1) : 2006-06 (1)|
+|6.|__editorialDecl__|1||
+|7.|__extent__|2||
+|8.|__idno__|6| @__type__ (6) : DLPS (1), TCP (1), STC (1), NOTIS (1), IMAGE-SET (1), EVANS-CITATION (1)|
+|9.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|10.|__label__|5||
+|11.|__langUsage__|1||
+|12.|__language__|1| @__ident__ (1) : eng (1)|
+|13.|__listPrefixDef__|1||
+|14.|__note__|5||
+|15.|__notesStmt__|2||
+|16.|__p__|11||
+|17.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|18.|__projectDesc__|1||
+|19.|__pubPlace__|2||
+|20.|__publicationStmt__|2||
+|21.|__publisher__|2||
+|22.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|23.|__seriesStmt__|1||
+|24.|__sourceDesc__|1||
+|25.|__term__|3||
+|26.|__textClass__|1||
+|27.|__title__|3||
+|28.|__titleStmt__|2||
+
+
+###Text Tag Usage###
+
+|No|element name|occ|attributes|
+|---|---|---|---|
+|1.|__abbr__|1||
+|2.|__bibl__|2||
+|3.|__body__|2||
+|4.|__closer__|27||
+|5.|__date__|68||
+|6.|__dateline__|66||
+|7.|__desc__|317||
+|8.|__div__|120| @__type__ (120) : illustration (1), title_page (1), to_the_public (1), list_of_subscribers (1), table_of_contents (1), part (1), biography (1), letter (30), story (1), letters (1), poems (3), poem (69), dialogue (2), half_title (1), essays (1), essay (4), prayer (1)|
+|9.|__figure__|1||
+|10.|__floatingText__|2| @__type__ (2) : letter (2)|
+|11.|__g__|966| @__ref__ (966) : char:EOLhyphen (875), char:punc (89), char:EOLunhyphen (2)|
+|12.|__gap__|317| @__reason__ (317) : illegible (317)  •  @__resp__ (317) : #PDCC (317)  •  @__extent__ (317) : 1 letter (188), 2 letters (71), 1 word (32), 3 letters (12), 1 span (6), 4 letters (8)|
+|13.|__head__|108||
+|14.|__hi__|1476| @__rend__ (3) : sup (3)|
+|15.|__item__|230||
+|16.|__l__|3827||
+|17.|__lg__|368||
+|18.|__list__|4||
+|19.|__note__|26| @__n__ (26) : * (18), † (6), ‡ (1), § (1)  •  @__place__ (26) : bottom (26)|
+|20.|__opener__|61||
+|21.|__p__|245||
+|22.|__pb__|384| @__facs__ (384) : tcp:025208_0000_0FCCA2F96295BE98 (1), tcp:025208_0001_0FCC8E96E2EE0058 (1), tcp:025208_0002_0FCC8E98DEEBE4C0 (1), tcp:025208_0003_0FCC8E9E63E00560 (1), tcp:025208_0004_0FCC8E9FE858F6D8 (1), tcp:025208_0005_0FCC8EA40C458E48 (1), tcp:025208_0006_0FCCA283B131C000 (1), tcp:025208_0007_0FCCA285A0963578 (1), tcp:025208_0008_0FCCA286CBD36F70 (1), tcp:025208_0009_0FCCA288410BAF58 (1), tcp:025208_0010_0FCCA28A64320978 (1), tcp:025208_0011_0FCCA28CB53D97C8 (1), tcp:025208_0012_0FCCA28E37E26198 (1), tcp:025208_0013_0FCCA290222009C8 (1), tcp:025208_0014_0FCCA291992A8140 (1), tcp:025208_0015_0FCCA2931C8FDFD8 (1), tcp:025208_0016_0FCCA294345EB530 (1), tcp:025208_0017_0FCCA295AEBC5718 (1), tcp:025208_0018_0FCCA297E2200DB0 (1), tcp:025208_0019_0FCCA29994D10E48 (1), tcp:025208_0020_0FCCA29BA27A81F0 (1), tcp:025208_0021_0FCCA29DD6DF9740 (1), tcp:025208_0022_0FCCA29EC7BD4ED8 (1), tcp:025208_0023_0FCCA2A02C893AD8 (1), tcp:025208_0024_0FCCA2A2E808A070 (1), tcp:025208_0025_0FCCA2A3EDD886C8 (1), tcp:025208_0026_0FCCA2A5ED56F2E8 (1), tcp:025208_0027_0FCCA2A75BB260B8 (1), tcp:025208_0028_0FCCA2A88A2ECFC0 (1), tcp:025208_0029_0FCCA2AA8C328348 (1), tcp:025208_0031_0FCCA2AB69C874F8 (1), tcp:025208_0032_0FCCA2ACE8D71BD0 (1), tcp:025208_0033_0FCCA2AF30C37988 (1), tcp:025208_0034_0FCCA2B0AAA8A780 (1), tcp:025208_0035_0FCCA2B25623BD68 (1), tcp:025208_0036_0FCCA2B3AC9AF9D0 (1), tcp:025208_0037_0FCCA2B592BC3808 (1), tcp:025208_0038_0FCC8E99E5CBEB28 (1), tcp:025208_0039_0FCC8E9B62BED620 (1), tcp:025208_0040_0FCC8E9D48CC2AB0 (1), tcp:025208_0041_0FCCA2B6A1F11A28 (1), tcp:025208_0042_0FCCA2B8530E5778 (1), tcp:025208_0043_0FCCA2BAB06B7A30 (1), tcp:025208_0044_0FCCA2BBE528AA30 (1), tcp:025208_0045_0FCCA2BD6A619818 (1), tcp:025208_0046_0FCCA2BFB52C0B98 (1), tcp:025208_0047_0FCCA2C12C426220 (1), tcp:025208_0048_0FCCA2C2A8A07788 (1), tcp:025208_0049_0FCCA2C52B064070 (1), tcp:025208_0050_0FCCA2C66D816230 (1), tcp:025208_0051_0FCCA2C875F61640 (1), tcp:025208_0052_0FCCA2CA2A2B0758 (1), tcp:025208_0053_0FCCA2CBA3FF7828 (1), tcp:025208_0054_0FCCA2CD9E396D40 (1), tcp:025208_0055_0FCCA2CEE2EF9698 (1), tcp:025208_0056_0FCCA2D0303A40A0 (1), tcp:025208_0057_0FCCA2D1B3880058 (1), tcp:025208_0058_0FCCA2D36526A2A8 (1), tcp:025208_0059_0FCCA2D4AA7B6978 (1), tcp:025208_0060_0FCCA2D673C4E630 (1), tcp:025208_0061_0FCCA2D7A5768BB0 (1), tcp:025208_0062_0FCCA2D939FB1BF0 (1), tcp:025208_0063_0FCCA2DAB400AEE0 (1), tcp:025208_0064_0FCCA2DC777D5280 (1), tcp:025208_0065_0FCCA2DDDACC9880 (1), tcp:025208_0066_0FCCA2DF23854EB8 (1), tcp:025208_0067_0FCCA2E0A1923918 (1), tcp:025208_0068_0FCCA2E2731FC0D8 (1), tcp:025208_0069_0FCCA2E3A8879858 (1), tcp:025208_0070_0FCCA2E5F608FA30 (1), tcp:025208_0071_0FCCA2E81975D280 (1), tcp:025208_0072_0FCCA2E8E2799F60 (1), tcp:025208_0073_0FCCA2EAC6C71F68 (1), tcp:025208_0074_0FCCA2EBE8C1BB28 (1), tcp:025208_0075_0FCCA2EDC6137350 (1), tcp:025208_0076_0FCCA2EEEB9C4A98 (1), tcp:025208_0077_0FCCA2F0C9583640 (1), tcp:025208_0078_0FCCA2F244AB82C8 (1), tcp:025208_0079_0FCCA2F372891E58 (1), tcp:025208_0080_0FCCA2F5004847E8 (1), tcp:025208_0081_0FCCA2F6D9590768 (1), tcp:025208_0082_0FCCA2F7EDB1FB98 (1), tcp:025208_0083_0FCC8E95663C0278 (1), tcp:025208_0084_0FCCA2FB091BAE28 (1), tcp:025208_0085_0FCCA2FC76DCD0A8 (1), tcp:025208_0086_0FCCA2FE229EB390 (1), tcp:025208_0087_0FCCA2FF6F02BE88 (1), tcp:025208_0088_0FCCA300E9C33538 (1), tcp:025208_0089_0FCCA3033AF68350 (1), tcp:025208_0090_0FCCA304B16F6540 (1), tcp:025208_0091_0FCCA30628B75700 (1), tcp:025208_0092_0FCCA307B3E998B8 (1), tcp:025208_0093_0FCCA3094CDD4620 (1), tcp:025208_0094_0FCCA30B70ED8728 (1), tcp:025208_0095_0FCCA30CE8608470 (1), tcp:025208_0096_0FCCA30E66BD3C80 (1), tcp:025208_0097_0FCCA31015408188 (1), tcp:025208_0098_0FCCA31176489B40 (1), tcp:025208_0099_0FCCA31303EFFAF8 (1), tcp:025208_0100_0FCC8EB69044F290 (1), tcp:025208_0101_0FCC8EB7F4076988 (1), tcp:025208_0102_0FCC8EC335AD8BF0 (1), tcp:025208_0103_0FCC8EC568BF51F8 (1), tcp:025208_0104_0FCC8EC6EC0E32C0 (1), tcp:025208_0105_0FCC8EC86D8EB458 (1), tcp:025208_0106_0FCC8EC9F641BD70 (1), tcp:025208_0107_0FCC8ED9B002B5E0 (1), tcp:025208_0108_0FCC8EDB284D42C0 (1), tcp:025208_0109_0FCC8EDE182C04D0 (1), tcp:025208_0110_0FCC8EF4E2BF8200 (1), tcp:025208_0111_0FCC8EF6C61EA298 (1), tcp:025208_0112_0FCC8EF822318270 (1), tcp:025208_0113_0FCC8EF9479A9820 (1), tcp:025208_0114_0FCCA31606233290 (1), tcp:025208_0115_0FCCA3176C1E99F8 (1), tcp:025208_0116_0FCCA318E924F580 (1), tcp:025208_0117_0FCCA31AA52074A0 (1), tcp:025208_0118_0FCCA31C6A402598 (1), tcp:025208_0119_0FCCA31D6E0D13E8 (1), tcp:025208_0120_0FCCA31EE4D64088 (1), tcp:025208_0121_0FCCA3721FB251A0 (1), tcp:025208_0122_0FCCA321068A58D0 (1), tcp:025208_0123_0FCCA322008E1ED0 (1), tcp:025208_0124_0FCCA32393DF8640 (1), tcp:025208_0125_0FCCA3254A63B2D0 (1), tcp:025208_0126_0FCCA32663869AC0 (1), tcp:025208_0127_0FCCA327E0642510 (1), tcp:025208_0128_0FCCA32A18BD82E8 (1), tcp:025208_0129_0FCCA32AEA55B908 (1), tcp:025208_0130_0FCCA32C8BE58458 (1), tcp:025208_0131_0FCCA32DFB0BE3F8 (1), tcp:025208_0132_0FCCA32F66DD62F8 (1), tcp:025208_0133_0FCCA3310E4029B0 (1), tcp:025208_0134_0FCCA332E6E65020 (1), tcp:025208_0135_0FCCA333E92971F0 (1), tcp:025208_0136_0FCCA3356C2C2E88 (1), tcp:025208_0030_0FCCA31470979B10 (1), tcp:025208_0137_0FCCA33749D15DE0 (1), tcp:025208_0138_0FCCA3387391F338 (1), tcp:025208_0139_0FCCA33A007BDB08 (1), tcp:025208_0140_0FCCA33BA9CFFEA8 (1), tcp:025208_0141_0FCCA33D11A4D498 (1), tcp:025208_0142_0FCCA33E69AF3808 (1), tcp:025208_0143_0FCCA340111A6330 (1), tcp:025208_0144_0FCCA341CF192490 (1), tcp:025208_0145_0FCCA3431F6C01A0 (1), tcp:025208_0146_0FCCA344888AAD10 (1), tcp:025208_0147_0FCCA345E14CCBA8 (1), tcp:025208_0148_0FCCA34775ED7B20 (1), tcp:025208_0149_0FCCA348EBA022F8 (1), tcp:025208_0150_0FCCA34A8DDC5700 (1), tcp:025208_0151_0FCCA34C629DADD8 (1), tcp:025208_0152_0FCCA34DB7622190 (1), tcp:025208_0153_0FCCA34EE61A5178 (1), tcp:025208_0154_0FCCA35106B5C600 (1), tcp:025208_0155_0FCCA351F0B740A0 (1), tcp:025208_0156_0FCCA3536B7628E0 (1), tcp:025208_0157_0FCCA3552DC4E758 (1), tcp:025208_0158_0FCCA35725F83318 (1), tcp:025208_0159_0FCCA358C2CB8F98 (1), tcp:025208_0160_0FCC8EB4E0A58370 (1), tcp:025208_0161_0FCCA35A77FA1BD0 (1), tcp:025208_0162_0FCCA35BA5C4DA90 (1), tcp:025208_0163_0FCCA35DA748BF58 (1), tcp:025208_0164_0FCCA35F65A22BA8 (1), tcp:025208_0165_0FCCA360E9FE5208 (1), tcp:025208_0166_0FCC8EBD6ED01D98 (1), tcp:025208_0167_0FCC8EBF69217310 (1), tcp:025208_0168_0FCC8EC0E98FC928 (1), tcp:025208_0169_0FCCA3632B66A050 (1), tcp:025208_0170_0FCCA364EC4AEDA0 (1), tcp:025208_0171_0FCCA366587A6738 (1), tcp:025208_0172_0FCCA367A57C63C8 (1), tcp:025208_0173_0FCCA369385E30E8 (1), tcp:025208_0174_0FCCA36AC26B2400 (1), tcp:025208_0175_0FCCA36C2911E698 (1), tcp:025208_0176_0FCCA36DDFADAA38 (1), tcp:025208_0177_0FCCA36F282CE980 (1), tcp:025208_0178_0FCCA370A5B2FC58 (1), tcp:025208_0179_0FCC8EB36375C628 (1), tcp:025208_0180_0FCCA373A70C5E50 (1), tcp:025208_0181_0FCCA3759A73B2B0 (1), tcp:025208_0182_0FCCA376CAC873C8 (1), tcp:025208_0183_0FCCA37824B0A788 (1), tcp:025208_0184_0FCCA379AA6CEE70 (1), tcp:025208_0185_0FCCA37B26495888 (1), tcp:025208_0186_0FCCA37CD2070938 (1), tcp:025208_0187_0FCCA37E2CC65378 (1), tcp:025208_0188_0FCCA37FF9348FD0 (1), tcp:025208_0189_0FCCA3812BFD98C0 (1), tcp:025208_0190_0FCCA382EB68F9E0 (1), tcp:025208_0191_0FCCA3844338D058 (1), tcp:025208_0192_0FCCA3861EC2D8F0 (1), tcp:025208_0193_0FCCA38727D84588 (1), tcp:025208_0194_0FCCA388CD7E8F30 (1), tcp:025208_0195_0FCCA38AAE2700A0 (1), tcp:025208_0196_0FCCA38BA5F9F450 (1), tcp:025208_0197_0FCCA38D26CFF190 (1), tcp:025208_0198_0FCCA38EA66479D8 (1), tcp:025208_0199_0FCCA4022DFE3F08 (1), tcp:025208_0200_0FCC8ECD286114F8 (1), tcp:025208_0201_0FCC8ED0435B92C8 (1), tcp:025208_0202_0FCC8ED17566B338 (1), tcp:025208_0203_0FCC8ED2F0460458 (1), tcp:025208_0204_0FCC8ED484ACF9C8 (1), tcp:025208_0205_0FCC8ED5ED0FA500 (1), tcp:025208_0206_0FCC8ED76A697F88 (1), tcp:025208_0207_0FCCA39021EE8DD0 (1), tcp:025208_0208_0FCCA391AFC1BD10 (1), tcp:025208_0209_0FCCA39340D00DB8 (1), tcp:025208_0210_0FCCA394E9042EE0 (1), tcp:025208_0211_0FCCA3964C821278 (1), tcp:025208_0212_0FCCA397A784F568 (1), tcp:025208_0213_0FCCA3998B69CC78 (1), tcp:025208_0214_0FCCA39B137C9238 (1), tcp:025208_0215_0FCCA39C673523D0 (1), tcp:025208_0216_0FCCA39DDFD959D0 (1), tcp:025208_0217_0FCCA39F224502A0 (1), tcp:025208_0218_0FCCA3A0CEC7A160 (1), tcp:025208_0219_0FCCA3A2220BCE18 (1), tcp:025208_0220_0FCCA3A3DE081858 (1), tcp:025208_0221_0FCCA3A5227190E0 (1), tcp:025208_0222_0FCCA3A6D160DA40 (1), tcp:025208_0223_0FCCA3A86D9FD328 (1), tcp:025208_0224_0FCCA3A9A3D1C8D8 (1), tcp:025208_0225_0FCCA3AB87F114C0 (1), tcp:025208_0226_0FCCA3ACC5AE48E0 (1), tcp:025208_0227_0FCCA3AE5740BE58 (1), tcp:025208_0228_0FCCA3B0155B6C28 (1), tcp:025208_0229_0FCCA3B1204FB698 (1), tcp:025208_0230_0FCCA3B29F9FAC30 (1), tcp:025208_0231_0FCCA3B48A4B6FE0 (1), tcp:025208_0232_0FCCA3B5A2996FE8 (1), tcp:025208_0233_0FCCA3B720536018 (1), tcp:025208_0234_0FCCA3B90EE66848 (1), tcp:025208_0235_0FCCA3BA238EA940 (1), tcp:025208_0236_0FCCA3BBA03909E8 (1), tcp:025208_0237_0FCCA3BD77360880 (1), tcp:025208_0238_0FCCA3BEB0880AB0 (1), tcp:025208_0239_0FCCA3C08CBE0620 (1), tcp:025208_0240_0FCCA3C1A3071638 (1), tcp:025208_0241_0FCCA3C34CC53210 (1), tcp:025208_0242_0FCCA3C4A26EFCB8 (1), tcp:025208_0243_0FCCA3C620EFA7E8 (1), tcp:025208_0244_0FCCA3C88A0644D8 (1), tcp:025208_0245_0FCCA3C9E1A41368 (1), tcp:025208_0246_0FCCA3CB8A937560 (1), tcp:025208_0247_0FCCA3CCE7C42148 (1), tcp:025208_0248_0FCCA3CE618D89E0 (1), tcp:025208_0249_0FCCA3D023C712A8 (1), tcp:025208_0250_0FCCA3D162107968 (1), tcp:025208_0251_0FCCA3D32ECCED30 (1), tcp:025208_0252_0FCCA3D45F400FA0 (1), tcp:025208_0253_0FCCA3D605478060 (1), tcp:025208_0254_0FCCA3D7650A5C60 (1), tcp:025208_0255_0FCCA3D8DEFAC170 (1), tcp:025208_0256_0FCCA3DA9BA9A658 (1), tcp:025208_0257_0FCCA3DBEEE40F10 (1), tcp:025208_0258_0FCCA3DD73DF5BA0 (1), tcp:025208_0259_0FCCA3DF086B9420 (1), tcp:025208_0260_0FCCA3E06ECED960 (1), tcp:025208_0261_0FCCA3E231FF2220 (1), tcp:025208_0262_0FCCA3E36ECE0670 (1), tcp:025208_0263_0FCCA3E4F122CBE0 (1), tcp:025208_0264_0FCCA3E6D420C948 (1), tcp:025208_0265_0FCCA3E80371D218 (1), tcp:025208_0266_0FCCA3E9B068AB70 (1), tcp:025208_0267_0FCCA3EAEFF417B0 (1), tcp:025208_0268_0FCCA3EC6F63BAA8 (1), tcp:025208_0269_0FCCA3EDEF1066A0 (1), tcp:025208_0270_0FCCA3EF6EB72EC8 (1), tcp:025208_0271_0FCCA3F10D9F6958 (1), tcp:025208_0272_0FCCA3F291274028 (1), tcp:025208_0273_0FCCA3F40E910CB8 (1), tcp:025208_0274_0FCCA3F57621C9C0 (1), tcp:025208_0275_0FCCA3F6F440E078 (1), tcp:025208_0276_0FCCA3F8961244C0 (1), tcp:025208_0277_0FCCA3F9F817C978 (1), tcp:025208_0278_0FCCA3FC2F8E29F0 (1), tcp:025208_0279_0FCCA3FDB78BECC8 (1), tcp:025208_0280_0FCCA3FF9DD47980 (1), tcp:025208_0281_0FCCA400C127AB68 (1), tcp:025208_0282_0FCC8ECB691CDB48 (1), tcp:025208_0283_0FCCA403CB2AE300 (1), tcp:025208_0284_0FCCA40532727590 (1), tcp:025208_0285_0FCCA406C22C4258 (1), tcp:025208_0286_0FCCA4082EF67600 (1), tcp:025208_0287_0FCCA409AFF49C80 (1), tcp:025208_0288_0FCCA40BF9EED750 (1), tcp:025208_0289_0FCCA40D9A9C4180 (1), tcp:025208_0290_0FCCA40EF4DDD810 (1), tcp:025208_0291_0FCCA4106EA281D0 (1), tcp:025208_0292_0FCCA411F4BEF5D0 (1), tcp:025208_0293_0FCCA4136E173D78 (1), tcp:025208_0294_0FCCA415661509E8 (1), tcp:025208_0295_0FCCA41671E05F20 (1), tcp:025208_0296_0FCCA418474FEAF0 (1), tcp:025208_0297_0FCCA4196D9DB430 (1), tcp:025208_0298_0FCCA478AF930420 (1), tcp:025208_0299_0FCC8EE06B476438 (1), tcp:025208_0300_0FCC8EE1E8683918 (1), tcp:025208_0301_0FCC8EE6AD31FA10 (1), tcp:025208_0302_0FCC8EE8BB428070 (1), tcp:025208_0303_0FCC8EEA2EE43DF0 (1), tcp:025208_0304_0FCC8EEBAAD98738 (1), tcp:025208_0305_0FCC8EED3240BB18 (1), tcp:025208_0306_0FCC8EEEB7631F78 (1), tcp:025208_0307_0FCC8EF02DC18040 (1), tcp:025208_0308_0FCC8EF32ABB8788 (1), tcp:025208_0309_0FCCA41BB7B2D5B8 (1), tcp:025208_0310_0FCCA41D34F1AA48 (1), tcp:025208_0311_0FCCA41EB48D79D8 (1), tcp:025208_0312_0FCCA4202E7B46D8 (1), tcp:025208_0313_0FCCA421B124D750 (1), tcp:025208_0314_0FCCA4234655BFF8 (1), tcp:025208_0315_0FCCA424DA823588 (1), tcp:025208_0316_0FCCA4262FBC8138 (1), tcp:025208_0317_0FCCA4281EC64BC0 (1), tcp:025208_0318_0FCCA4295499B268 (1), tcp:025208_0319_0FCCA42AB77F4A68 (1), tcp:025208_0320_0FCCA42C2F556A98 (1), tcp:025208_0321_0FCCA42DF65E1358 (1), tcp:025208_0322_0FCCA42F2EB24110 (1), tcp:025208_0323_0FCCA430C8C22C18 (1), tcp:025208_0324_0FCCA43258C16318 (1), tcp:025208_0325_0FCCA4346F661820 (1), tcp:025208_0326_0FCCA4360DB137F0 (1), tcp:025208_0327_0FCCA4376F91EAE0 (1), tcp:025208_0328_0FCCA438F2F0F848 (1), tcp:025208_0329_0FCCA43ACFC4F4F0 (1), tcp:025208_0330_0FCCA43C0ABC0818 (1), tcp:025208_0331_0FCCA43DAC9BD490 (1), tcp:025208_0332_0FCCA43F04BB0B58 (1), tcp:025208_0333_0FCCA44072CE9398 (1), tcp:025208_0334_0FCCA442B5AF2618 (1), tcp:025208_0335_0FCCA444667E4750 (1), tcp:025208_0336_0FCCA445AEC20FF0 (1), tcp:025208_0337_0FCCA447B2007210 (1), tcp:025208_0338_0FCCA448B26A8E20 (1), tcp:025208_0339_0FCCA44AC21FF5E8 (1), tcp:025208_0340_0FCCA44BD8D63B08 (1), tcp:025208_0341_0FCCA44D943DBB70 (1), tcp:025208_0342_0FCCA44EDBA08668 (1), tcp:025208_0343_0FCCA4502D5FE7E0 (1), tcp:025208_0344_0FCCA451DFF71B00 (1), tcp:025208_0345_0FCCA4533614B230 (1), tcp:025208_0346_0FCCA454ED101260 (1), tcp:025208_0347_0FCCA45698726470 (1), tcp:025208_0348_0FCCA457B18955E0 (1), tcp:025208_0349_0FCCA4593B0F8990 (1), tcp:025208_0350_0FCCA45B26CF68D8 (1), tcp:025208_0351_0FCCA45C2D7C8800 (1), tcp:025208_0352_0FCCA45DD6C92CF8 (1), tcp:025208_0353_0FCCA45F9D4B5808 (1), tcp:025208_0354_0FCCA460C78F5938 (1), tcp:025208_0355_0FCCA4623A1D9810 (1), tcp:025208_0356_0FCCA463D4B31E38 (1), tcp:025208_0357_0FCCA465A16600C8 (1), tcp:025208_0358_0FCCA466C5597608 (1), tcp:025208_0359_0FCCA468AA5FA418 (1), tcp:025208_0360_0FCCA469B51B5E10 (1), tcp:025208_0361_0FCCA46B5A684CB8 (1), tcp:025208_0362_0FCCA46D1CD42080 (1), tcp:025208_0363_0FCCA46E330101C0 (1), tcp:025208_0364_0FCCA46FC97ABA30 (1), tcp:025208_0365_0FCCA4712E47EA68 (1), tcp:025208_0366_0FCCA4732347CCA0 (1), tcp:025208_0367_0FCCA474314EAE40 (1), tcp:025208_0368_0FCCA475AF055A80 (1), tcp:025208_0369_0FCCA4775EC405B8 (1), tcp:025208_0370_0FCC8EDF58945008 (1), tcp:025208_0371_0FCCA47A2D90E6D8 (1), tcp:025208_0372_0FCCA47BDA34D108 (1), tcp:025208_0373_0FCCA47D2FF052D8 (1), tcp:025208_0374_0FCCA47F0AEACCC0 (1), tcp:025208_0375_0FCCA48031869E90 (1), tcp:025208_0376_0FCCA481F706AB80 (1), tcp:025208_0377_0FCCA48335D284C8 (1), tcp:025208_0378_0FCCA484ADBA8B00 (1), tcp:025208_0379_0FCCA48682E46310 (1), tcp:025208_0380_0FCCA487D0FBA800 (1), tcp:025208_0381_0FCCA48979F67C58 (1), tcp:025208_0382_0FCCA48AD6A0B980 (1), tcp:025208_0383_0FCCA48C2E5D8990 (1)  •  @__rendition__ (5) : simple:additions (5)  •  @__n__ (364) : ii (1), iii (1), iv (1), v (1), vi (1), vii (1), viii (1), ix (1), x (1), xi (1), xii (1), xiii (1), xiv (1), xv (1), xvi (1), xvii (1), xviii (1), 20 (1), 21 (1), 22 (1), 23 (1), 24 (1), 25 (1), 26 (1), 27 (1), 28 (1), 29 (1), 30 (1), 31 (1), 32 (1), 33 (1), 34 (1), 35 (1), 36 (1), 37 (1), 38 (1), 39 (1), 40 (1), 41 (1), 42 (1), 43 (1), 44 (1), 45 (1), 46 (1), 47 (1), 48 (1), 49 (1), 50 (1), 51 (1), 52 (1), 53 (1), 54 (1), 55 (1), 56 (1), 57 (1), 58 (1), 59 (1), 60 (1), 61 (1), 62 (1), 63 (1), 64 (1), 65 (1), 66 (1), 67 (1), 68 (1), 69 (1), 70 (1), 71 (1), 72 (1), 73 (1), 74 (1), 75 (1), 76 (1), 77 (1), 78 (1), 79 (1), 80 (1), 81 (1), 82 (1), 83 (1), 84 (1), 85 (1), 86 (1), 87 (1), 90 (1), 91 (1), 92 (1), 93 (1), 94 (1), 95 (1), 96 (1), 97 (1), 98 (1), 99 (1), 100 (1), 101 (1), 102 (1), 103 (1), 104 (1), 105 (1), 106 (1), 107 (1), 108 (1), 109 (1), 110 (1), 111 (1), 112 (1), 113 (1), 114 (1), 116 (1), 117 (1), 118 (1), 119 (1), 120 (1), 121 (1), 122 (1), 123 (1), 124 (1), 125 (1), 126 (1), 127 (1), 128 (1), 129 (1), 130 (1), 131 (1), 132 (1), 133 (1), 134 (1), 135 (1), 136 (1), 137 (1), 138 (1), 139 (1), 140 (1), 141 (1), 142 (1), 143 (1), 144 (1), 145 (1), 146 (1), 147 (1), 148 (1), 149 (1), 150 (1), 151 (1), 152 (1), 153 (1), 154 (1), 155 (1), 156 (1), 157 (1), 158 (1), 159 (1), 160 (1), 161 (1), 162 (1), 163 (1), 164 (1), 165 (1), 166 (1), 167 (1), 168 (1), 169 (1), 170 (1), 171 (1), 172 (1), 173 (1), 174 (1), 175 (1), 176 (1), 177 (1), 178 (1), 179 (1), 180 (1), 181 (1), 182 (1), 183 (1), 184 (1), 186 (1), 187 (1), 188 (1), 189 (1), 190 (1), 191 (1), 192 (1), 193 (1), 194 (1), 195 (1), 196 (1), 197 (1), 198 (1), 199 (1), 200 (1), 201 (1), 202 (1), 203 (1), 204 (1), 205 (1), 206 (1), 207 (1), 208 (1), 209 (1), 210 (1), 211 (1), 212 (1), 213 (1), 214 (1), 215 (1), 216 (1), 217 (1), 218 (1), 219 (1), 220 (1), 221 (1), 222 (1), 223 (1), 224 (1), 225 (1), 226 (1), 227 (1), 228 (1), 229 (1), 230 (1), 231 (1), 232 (1), 233 (1), 234 (1), 235 (1), 236 (1), 237 (1), 238 (1), 239 (1), 240 (1), 241 (1), 242 (1), 243 (1), 244 (1), 245 (1), 246 (1), 247 (1), 248 (1), 249 (1), 250 (1), 251 (1), 252 (1), 253 (1), 254 (1), 255 (1), 256 (1), 257 (1), 258 (1), 259 (1), 260 (1), 261 (1), 262 (1), 266 (1), 267 (1), 268 (1), 269 (1), 270 (1), 271 (1), 272 (1), 273 (1), 274 (1), 276 (1), 277 (1), 278 (1), 279 (1), 280 (1), 281 (1), 282 (1), 283 (1), 284 (1), 285 (1), 286 (1), 287 (1), 288 (1), 289 (1), 290 (1), 291 (1), 292 (1), 293 (1), 294 (1), 295 (1), 296 (1), 297 (1), 298 (1), 299 (1), 300 (1), 301 (1), 302 (1), 303 (1), 304 (1), 305 (1), 306 (1), 307 (1), 308 (1), 309 (1), 310 (1), 311 (1), 312 (1), 313 (1), 314 (1), 315 (1), 316 (1), 317 (1), 318 (1), 319 (1), 320 (1), 321 (1), 322 (1), 323 (1), 324 (1), 325 (1), 326 (1), 327 (1), 328 (1), 329 (1), 330 (1), 331 (1), 332 (1), 333 (1), 334 (1), 335 (1), 336 (1), 337 (1), 338 (1), 339 (1), 340 (1), 341 (1), 342 (1), 343 (1), 344 (1), 345 (1), 346 (1), 347 (1), 348 (1), 349 (1), 350 (1), 351 (1), 352 (1), 353 (1), 354 (1), 355 (1), 356 (1), 357 (1), 359 (1), 360 (1), 361 (1), 362 (1), 363 (1), 364 (1), 365 (1), 366 (1), 367 (1), 368 (1), 369 (1), 370 (1), 371 (1), 372 (1), 373 (1), 374 (1), 375 (1)|
+|23.|__postscript__|3||
+|24.|__q__|184||
+|25.|__salute__|13||
+|26.|__signed__|26||
+|27.|__sp__|9||
+|28.|__speaker__|9||
+|29.|__stage__|1||
+|30.|__trailer__|1||
